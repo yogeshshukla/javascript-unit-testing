@@ -1,0 +1,20 @@
+Official sites for test cases
+
+vue js official site for about unit testing -> https://v2.vuejs.org/v2/cookbook/unit-testing-vue-components.html
+
+Vue test utils -> https://v1.test-utils.vuejs.org/
+
+Jest -> https://jestjs.io/
+
+Steps
+
+1) Install vue js and select testing framework like jest, karma and mocha by vue init webpack my-project (for vue cli 2) and also can select e2e with Nightwatch for end to end browser based testing
+
+2) Upgrade chromedriver dependencies if your e2e run is not running, for that whatever chrome browser is installed like for me chromedriver 105.0.0 is perfect.
+
+to upgrade dependecy use command "yarn upgrade chromedriver@105.0.0"
+
+3) 
+
+
+ 
